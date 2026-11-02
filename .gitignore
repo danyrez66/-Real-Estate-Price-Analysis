@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+# Virtual Environment
+venv/
+.venv/
+env/
+machine_learning_313/
+# Jupyter
+.ipynb_checkpoints/
+# MLflow
+mlruns/
+mlartifacts/
+# Model files
+*.pkl
+*.joblib
+*.h5
+*.keras 
+*.pt
+*.pth
+*.onnx
+# Secrets
+.env
+# OS
+.DS_Store
+Thumbs.db
