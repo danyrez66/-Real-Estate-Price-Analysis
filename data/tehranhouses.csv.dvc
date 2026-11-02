@@ -1,0 +1,5 @@
+outs:
+- md5: a0eb341af75e8fc3633fc55f04136c2d
+  size: 184108
+  hash: md5
+  path: tehranhouses.csv
